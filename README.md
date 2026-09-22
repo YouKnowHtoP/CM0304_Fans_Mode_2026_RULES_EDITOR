@@ -1,6 +1,6 @@
 ##
 ##     Championship Manager: Season 03/04 
-### Fans Mode 2026 - Rules Editor [Version: 2.0.1]
+### Fans Mode 2026 - Rules Editor [Version: 1.0.0]
 ### www.youtube.com/@YouKnowHtoP
 ###
 <details> <summary><b>🌍 Read Me (Click Here!)</b></summary>
