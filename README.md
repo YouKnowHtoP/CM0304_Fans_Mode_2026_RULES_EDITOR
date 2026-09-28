@@ -1,12 +1,14 @@
 ##
 ##     Championship Manager: Season 03/04 
-### Fans Mode 2026 - Rules Editor [Version: 1.0.0]
+### Fans Mode 2026 - Rules Editor [Version: 1.0.1]
 ### www.youtube.com/@YouKnowHtoP 
 ###
 <details> <summary><b>🌍 Read Me (Click Here!)</b></summary>
 
-### ⚽ Fans Mode 2026 - Rules Editor - Version: 1.0.0
+### ⚽ Fans Mode 2026 - Rules Editor - Version: 1.0.1
 ###
+### ✨ Release Notes (v1.0.1)
+🌍 Foreign Player: The issue regarding the number of non-EU players in Portuguese Primeira Liga and Segunda Liga Match Squads has been resolved.
 ### About The Project
 You can use this program to modify the game mechanics ($\color{red}{\text{cm0304.exe}}$)
 ### 🚀 How to Download
@@ -21,8 +23,10 @@ www.youtube.com/@YouKnowHtoP
 </details>
 <details> <summary><b>🌍 Beni Oku (Buraya Tıkla!)</b></summary>
   
-### ⚽ Hayranlar Modu 2026 - Kurallar Editörü - Sürüm: 1.0.0
+### ⚽ Hayranlar Modu 2026 - Kurallar Editörü - Sürüm: 1.0.1
 ###
+### ✨ Sürüm Notları (v1.0.1)
+🌍 Yabancı Oyuncu: Portekiz Primeira Liga ve Segunda Liga Maç Kadrolarındaki AB dışı oyuncu sayısına ilişkin sorun çözüme kavuşturuldu.
 ### Proje Hakkında
 Bu programı oyun mekaniğini ($\color{red}{\text{cm0304.exe}}$) düzenlemek için kullanabilirsiniz.
 ### 🚀 Nasıl İndirilir?
