@@ -1,12 +1,14 @@
 ##
 ##     Championship Manager: Season 03/04 
-### Fans Mode 2026 - Rules Editor [Version: 1.0.1]
+### Fans Mode 2026 - Rules Editor [Version: 2.0.0]
 ### www.youtube.com/@YouKnowHtoP 
 ###
 <details> <summary><b>🌍 Read Me (Click Here!)</b></summary>
 
-### ⚽ Fans Mode 2026 - Rules Editor - Version: 1.0.1
+### ⚽ Fans Mode 2026 - Rules Editor - Version: 2.0.0
 ###
+### ✨ Release Notes (v2.0.0)
+🌍 Competition Structure: The New Format for Champions League.
 ### ✨ Release Notes (v1.0.1)
 🌍 Foreign Player: The issue regarding the number of non-EU players in Portuguese Primeira Liga and Segunda Liga Match Squads has been resolved.
 ### About The Project
@@ -23,8 +25,10 @@ www.youtube.com/@YouKnowHtoP
 </details>
 <details> <summary><b>🌍 Beni Oku (Buraya Tıkla!)</b></summary>
   
-### ⚽ Hayranlar Modu 2026 - Kurallar Editörü - Sürüm: 1.0.1
+### ⚽ Hayranlar Modu 2026 - Kurallar Editörü - Sürüm: 2.0.0
 ###
+### ✨ Sürüm Notları (v2.0.0)
+🌍 Lig / Kupa Formatı: Şampiyonlar Ligi Yeni Formatı eklendi.
 ### ✨ Sürüm Notları (v1.0.1)
 🌍 Yabancı Oyuncu: Portekiz Primeira Liga ve Segunda Liga Maç Kadrolarındaki AB dışı oyuncu sayısına ilişkin sorun çözüme kavuşturuldu.
 ### Proje Hakkında
